@@ -1,2 +1,2 @@
 # MRI-Analysis-with-python
-What is MRI data analysis? Magnetic resonance imaging (MRI) is a noninvasive imaging tool for neuroradiological diagnosis. Numerous concepts of automated MRI analysis and the use of machine learning have been proposed to assist diagnosis and prognosis.
+![image](https://user-images.githubusercontent.com/68773015/202850828-78d26df9-a474-4037-afa2-fd28e3b370c9.png)
