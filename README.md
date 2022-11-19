@@ -4,3 +4,6 @@
 ![image](https://user-images.githubusercontent.com/68773015/202850884-985124b7-84a2-4ee7-ba4e-ef7867fc2535.png)
 ## FMRI data
 ![image](https://user-images.githubusercontent.com/68773015/202855549-4a18944d-a0e6-4545-b8df-f96e7bafe219.png)
+## FMRIPREP
+if yout data is in a BIDS structure (It better be)..
+![image](https://user-images.githubusercontent.com/68773015/202862709-ee01839c-c807-4ed7-80ea-f78a95280d8f.png)
