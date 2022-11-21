@@ -9,3 +9,6 @@ if yout data is in a BIDS structure (It better be)..
 ![image](https://user-images.githubusercontent.com/68773015/202862709-ee01839c-c807-4ed7-80ea-f78a95280d8f.png)
 
 ![image](https://user-images.githubusercontent.com/68773015/202988128-4aab5a6c-cd35-4c95-8e43-63b8cdd26996.png)
+
+![image](https://user-images.githubusercontent.com/68773015/202988462-812244f1-8d7e-46be-8674-72ef5d7ec672.png)
+
