@@ -12,3 +12,4 @@ if yout data is in a BIDS structure (It better be)..
 
 ![image](https://user-images.githubusercontent.com/68773015/202988462-812244f1-8d7e-46be-8674-72ef5d7ec672.png)
 
+![image](https://user-images.githubusercontent.com/68773015/203004008-26eb53af-f493-4d5e-9d53-fa0fc562ca3d.png)
